@@ -1,0 +1,39 @@
+Po pierwszym uruchomieniu aplikacji
+Wywołanie onCreate
+Wywołanie onStart
+Wywołanie onResume
+
+Po wciśnięciu przycisku Cofnij
+Wywołanie onPause
+Wywołanie onStop
+Wywołanie onDestroy
+
+Po ponownym uruchomieniu aplikacji
+Wywołanie onCreate
+Wywołanie onStart
+Wywołanie onResume
+
+Po wciśnięciu przycisku ekranu głównego Home
+Wywołanie onPause
+Wywołanie onStop
+
+Po powrocie do aplikacji z listy ostatnio używanych aplikacji
+Wywołanie onStart
+Wywołanie onResume
+
+Po zmianie orientacji urządzenia
+Wywołanie onPause
+Wywołanie onStop
+Wywołanie onDestroy
+Wywołanie onCreate
+Wywołanie onStart
+Wywołanie onResume
+
+Po zmianie orientacji urządzenia (onSaveInstanceState)
+Wywołanie onPause
+Wywołanie onStop
+Wywołanie onSaveInstanceState
+Wywołanie onDestroy
+Wywołanie onCreate
+Wywołanie onStart
+Wywołanie onResume
